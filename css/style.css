@@ -56,5 +56,9 @@ Can only be applied to one unique element
 /* DESCENDENT SELECTOR */
 
 #logo h1 {
-  font-family: cursive;
+  font-family: 'Great Vibes', cursive;
+}
+
+#logo h2 {
+  font-family: 'Elsie Swash Caps', cursive;
 }
