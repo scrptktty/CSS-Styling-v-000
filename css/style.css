@@ -1,4 +1,5 @@
  @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+ @import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
 
 /* this here is a comment ... it explains stuff. */
 
@@ -30,7 +31,7 @@ figcaption {
   text-align: right;
 }
 
-/* CLASS SELECTOR 
+/* CLASS SELECTOR
 Apply one apply all
 
 Can be applied to any number of class elements
@@ -42,7 +43,7 @@ Can be applied to any number of class elements
   text-shadow: 0 2px 3px #000;
 }
 
-/* ID SELECTORS 
+/* ID SELECTORS
 One is the lonliest number
 
 Can only be applied to one unique element
@@ -54,6 +55,6 @@ Can only be applied to one unique element
 
 /* DESCENDENT SELECTOR */
 
-
-
-
+#logo h1 {
+  font-family: cursive;
+}
