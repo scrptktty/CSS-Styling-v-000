@@ -69,16 +69,16 @@ Can only be applied to one unique element
 }
 
 #details a:visited {
-  color: purple;
+  color: black;
   text-decoration: none;
 }
 
 #details a:hover {
-  color: purple;
+  color: black;
   text-decoration: underline;
 }
 
 #details a:active {
-  color: purple;
+  color: red;
   text-decoration: none;
 }
