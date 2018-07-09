@@ -65,10 +65,10 @@ Can only be applied to one unique element
 
 #details a:link {
   color: black;
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 #details a:visited {
-  color: black;
-  text-decoration: purple;  
+  color: purple;
+  text-decoration: none;
 }
