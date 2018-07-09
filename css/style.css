@@ -72,3 +72,13 @@ Can only be applied to one unique element
   color: purple;
   text-decoration: none;
 }
+
+#details a:hover {
+  color: purple;
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: purple;
+  text-decoration: none;
+}
