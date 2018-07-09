@@ -62,3 +62,13 @@ Can only be applied to one unique element
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
 }
+
+#details a:link {
+  color: black;
+  text-decoration: none;  
+}
+
+#details a:visited {
+  color: black;
+  text-decoration: purple;  
+}
